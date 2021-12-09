@@ -1,0 +1,27 @@
+import Vue from 'vue'
+import App from './App.vue'
+import VueViewer from 'v-viewer'
+
+import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
+
+// Import Bootstrap an BootstrapVue CSS files (order is important)
+import 'viewerjs/dist/viewer.css'
+Vue.use(VueViewer)
+
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+import { CarouselPlugin } from 'bootstrap-vue'
+import { VBScrollspyPlugin } from 'bootstrap-vue'
+Vue.use(VBScrollspyPlugin)
+Vue.use(CarouselPlugin)
+
+// Make BootstrapVue available throughout your project
+Vue.use(BootstrapVue)
+// Optionally install the BootstrapVue icon components plugin
+Vue.use(IconsPlugin)
+
+Vue.config.productionTip = false
+
+new Vue({
+  render: h => h(App)
+}).$mount('#app')
