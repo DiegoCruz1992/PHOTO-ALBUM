@@ -40,7 +40,11 @@ O projeto foi desenvolvido para um processo seletivo, o objetivo do projeto era 
 
 
 
-<img alt="albumdefotos" src="https://ik.imagekit.io/uw8itmckuzw/jogo_da_memoria1_vFQoEQ_Cn.gif?updatedAt=1639087488149">
+<img alt="albumdefotos" src="https://ik.imagekit.io/uw8itmckuzw/gif1_liXG2PQIgY.gif?updatedAt=1639089439283">
+
+
+[Clique aqui para ver mais do projeto](https://album-de-fotos.netlify.app/)
+
 
 
 
