@@ -26,7 +26,7 @@ Layout
 <hr>
 - HTML5<br>
 - CSS3<br>
-- BOOTSTRAP
+- BOOTSTRAP<br>
 - JAVA SCRIPT<br>
 - VUE.JS<br>
 - AXIOS - Utilizado para fazer a requisição para a API<br>
@@ -35,12 +35,12 @@ Layout
 <hr>
 O projeto foi desenvolvido para um processo seletivo, o objetivo do projeto era criar um album de fotos online. Sendo assim desenvoilvi um site ilustrativo onde as pessoas conseguem criar albuns de fotos online para dividir com amigos e familiares, as fotos são ilustrativas.
 
-## 🔖 LAYOUT
+### 🔖 LAYOUT
 <hr>
 
 
 
-[Resultado do projeto finalizado.](https://ik.imagekit.io/uw8itmckuzw/jogo_da_memoria1_vFQoEQ_Cn.gif?updatedAt=1639087488149)
+<img alt="albumdefotos" src="https://ik.imagekit.io/uw8itmckuzw/jogo_da_memoria1_vFQoEQ_Cn.gif?updatedAt=1639087488149">
 
 
 
