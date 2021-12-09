@@ -38,9 +38,9 @@ O projeto foi desenvolvido para um processo seletivo, o objetivo do projeto era 
 ## 🔖 LAYOUT
 <hr>
 
-Resultado do projeto finalizado.
 
-<img alt="sitealbumdefotos" src="https://ik.imagekit.io/uw8itmckuzw/jogo_da_memoria1_vFQoEQ_Cn.gif?updatedAt=1639087488149">
+
+[Resultado do projeto finalizado.](https://ik.imagekit.io/uw8itmckuzw/jogo_da_memoria1_vFQoEQ_Cn.gif?updatedAt=1639087488149)
 
 
 
